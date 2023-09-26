@@ -44,16 +44,12 @@ Gender and BMI: Is there a gender-based difference in BMI, and if so, what facto
 
 Average Glucose Level: How does the average glucose level in blood correlate with BMI, and can it be used to predict BMI levels?
 
-
 # Introduction:
-Heart failure is a globally significant health concern, responsible for millions of deaths annually. In Canada, it ranks among the leading causes of hospitalization and mortality, emphasizing the need for comprehensive research. This study is motivated by the urgency to understand the primary causes of mortality in heart failure patients. By analyzing real-world data and employing advanced analytics, the research aims to reveal underlying factors contributing to heart failure-related deaths, ultimately improving patient outcomes.
 
-# Motivation:
-The motivation for this research is the need to identify and address the factors driving mortality among heart failure patients. Heart failure is a complex condition influenced by various factors, including comorbidities and lifestyle. Understanding the main causes of mortality can guide targeted interventions and inform healthcare, policy, and research efforts. This research adopts a data-driven approach, using the provided mortality dataset and advanced statistical and machine learning techniques.
+By analyzing real-world data and employing advanced analytics, the research aims to reveal underlying factors contributing to heart failure-related deaths, ultimately improving patient outcomes.
 
 # Approach:
-The research approach involves a comprehensive data analysis process. It begins with dataset exploration, descriptive statistics, and visualization to understand key trends. Statistical methods and machine learning are then applied to identify significant predictors of mortality. These predictors may include clinical parameters, lifestyle factors, and comorbid conditions. The goal is to develop a robust understanding of factors contributing to heart failure-related mortality, enabling healthcare practitioners to tailor treatments and interventions for better patient outcomes.
 
-In addition to the comprehensive data analysis outlined above, our research also incorporates advanced techniques for deeper insights. We will employ clustering analysis, specifically K-means clustering, to categorize patients into distinct groups based on shared characteristics. Clustering can unveil hidden patterns within the data, helping us identify homogeneous subgroups of patients with similar risk profiles.
+The approach begins with dataset exploration, descriptive statistics, and visualization to understand key trends. Then we'll incorporate advanced techniques for deeper insights. We will employ clustering analysis, specifically K-means clustering, to categorize patients into distinct groups based on shared characteristics. Clustering can unveil hidden patterns within the data, helping us identify homogeneous subgroups of patients with similar risk profiles.
 
 Furthermore, we will leverage machine learning techniques, such as logistic regression, to explore the complex relationships between various factors and mortality outcomes. Logistic regression will enable us to model the probability of mortality as a function of patient attributes, allowing us to quantify the impact of specific factors on the likelihood of death due to heart failure. By integrating clustering and logistic regression, our research aims to provide a comprehensive understanding of the interplay between patient characteristics, clinical parameters, and mortality risk. This multifaceted approach will empower healthcare practitioners and researchers with valuable insights to enhance patient care and develop more effective preventive strategies for heart failure-related mortality.
