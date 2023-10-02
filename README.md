@@ -3,8 +3,8 @@
 ## Team members
 
 - Pourya Momtaz
-- \*\*
-- \*\*
+- Jingwen Ji
+- 
 
 # Public Health Data Analytics Datathon
 
